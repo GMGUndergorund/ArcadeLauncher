@@ -2,7 +2,7 @@
 
 A lightweight Python-based arcade launcher featuring five classic mini-games with local leaderboards and customizable themes.
 
-![Python Arcade Launcher](https://user-content.com/images/pygame-arcade-launcher.png)
+![Python Arcade Launcher](https://github.com/GMGUndergorund/ArcadeLauncher/releases/tag/New)
 
 ## Games Included
 
