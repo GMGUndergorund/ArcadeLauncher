@@ -2,8 +2,6 @@
 
 A lightweight Python-based arcade launcher featuring five classic mini-games with local leaderboards and customizable themes.
 
-![Python Arcade Launcher](https://github.com/GMGUndergorund/ArcadeLauncher/releases/tag/New)
-
 ## Games Included
 
 - **Snake**: Control a snake to eat food and grow without hitting yourself
